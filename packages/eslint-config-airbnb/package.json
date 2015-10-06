@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tyrchen",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A fork to Airbnb's ESLint config, change comma-dangle to never and semi to never",
   "main": "index.js",
   "scripts": {
